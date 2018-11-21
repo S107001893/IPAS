@@ -1,0 +1,18 @@
+# OWASP
+
+# OWASP TOP 10
+
+### OWASP TOP 10[2010]
+```
+http://newsletter.ascc.sinica.edu.tw/news/read_news.php?nid=1917
+
+> A1 – Injection（注入攻擊） 
+> A2 – Cross Site Scripting (XSS)（跨站腳本攻擊） 
+> A3 – Broken Authentication and Session Management（身分驗證功能缺失） 
+> A4 – Insecure Direct Object References（不安全的物件參考） 
+> A5 – Cross Site Request Forgery (CSRF)（跨站冒名請求） 
+> A6 – Security Misconfiguration（安全性設定疏失） 
+> A7 – Failure to Restrict URL Access（限制URL存取失敗） 
+> A8 – Unvalidated Redirects and Forwards（未驗證的導向） 
+> A9 – Insecure Cryptographic Storage（未加密的儲存設備）  
+> A10 – Insufficient Transport Layer Protection（傳輸層保護不足） 
